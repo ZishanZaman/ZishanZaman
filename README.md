@@ -21,3 +21,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
+## 🚀 Projects
+- **Angular Learning** – Step-by-step Angular tutorials and examples  
+- **ERP System** – Full-stack ASP.NET Core + Angular project 
+
