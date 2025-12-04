@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Zishan Zaman
 
-<!--
-**ZishanZaman/ZishanZaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior .NET Software Engineer | C# | ASP.NET Core | SQL Server | Entity Framework | Angular  
 
-Here are some ideas to get you started:
+🚀 Building scalable full-stack apps with .NET & Angular  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me: [shanibaloch2552@gmail.com](mailto:shanibaloch2552@gmail.com)  
+
+## 🛠 Skills
+- **Frontend:** Angular, HTML, CSS, Bootstrap
+- **Backend:** ASP.NET Core, C#, Entity Framework
+- **Database:** SQL Server
+- **Cloud & Tools:** Azure, Git, GitHub
+
+## 🌟 GitHub Stats
+![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZishanZaman&show_icons=true&theme=radical)
