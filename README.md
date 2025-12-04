@@ -14,3 +14,10 @@
 
 ## 🌟 GitHub Stats
 ![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZishanZaman&show_icons=true&theme=radical)
+
+## 🛠 Skills
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dot-net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
